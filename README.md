@@ -1,53 +1,40 @@
-# three_vite
-Basic THREE.js template using [Vite](https://vitejs.dev).
+# Description du projet
+    L'objectif de ce projet est de se familiariser avec la 3D et la librairie Three.js à travers le développement d'une application web 3D rappelant le jeu *Docteur Maboule* ou *Surgeon Simulator*.
 
-## Batteries included
+    Pour lancer le projet, il suffit de cliquer [ici](https://juliellemeyniette.github.io/crazy_toubib)
 
-Pre-configured to support :
+    ![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/movin_organ.gif)
 
-- glTF file loading
-- ammo.js wasm physics library
-- VSCode launch scripts
-- THREE.js type definitions : for IntelliSense in VS Code
-- recommended VS Code extensions
-- deployment
+# Membres du groupe :
+    - Juliette Meyniel
+      - Lead Developer
+      - Project Manager
+    - Gustave Boussard
+      - Documentation and Testing Lead
+      - Project Manager
 
-Have a look at vite.config.js and customize it to your needs (additional libraries, file formats etc.).
+# Sources :
+    Déplacement des objets avec la souris : https://schteppe.github.io/cannon.js/examples/threejs_mousepick.html
 
-## Installation
+# Licence :
+    MIT License
 
-Install [Node.js](https://nodejs.org)
+    Copyright (c) 2024 juliellemeyniette
 
-- Clone or download repo
-- run `npm install` : fetches and install all dependencies
-- `npm run dev` : launches a server and opens your browser in `https://localhost:5173` by default
-  - Edit your code : your changes are reflected instantly!
-- `npm run build` : packages all code and resources into the `dist` folder, ready for deployment.
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
 
-## Deploying the App with GitHub Pages
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
 
-(original: https://github.com/meta-quest/webxr-first-steps?tab=readme-ov-file#build-and-deploy)
-
-This repository includes a ready-to-use GitHub Actions workflow located at `.github/workflows/deploy.yml`, which automates both the build and deployment to GitHub Pages. Once enabled, every time you push changes to the `main` branch, a new build will automatically be deployed.
-
-#### Steps to Enable GitHub Pages Deployment:
-
-0. **IMPORTANT: Set the `base` variable** in `vite.config.js` (default name `/three_vite`) to the actual name of your repository. Your app will be deployed to https://juliellemeyniette.github.io/crazy_toubib
-1. **Fork this repository** to your own GitHub account.
-2. Navigate to your forked repository’s **Settings**.
-3. Scroll down to the **Pages** section.
-4. Under **Build and Deployment**, change the **Source** to **GitHub Actions**.
-
-Once this is set, GitHub Actions will handle the build and deployment process automatically. Any time you push changes to the `main` branch, the app will be built and deployed to GitHub Pages without any additional manual steps.
-
-You can monitor the status of the deployment job or manually re-run it via the **Actions** tab in your GitHub repository.
-
-
-# Credits
-
-- Test model (red cube) from https://github.com/cx20/gltf-test/tree/master/sampleModels/Box (CC BY License)
-
-- Some very interesting features (such as github pages deployment) have been borrowed from https://github.com/meta-quest/webxr-first-steps (MIT License)
-
-  - Make sure to check this excellent tutorial out!
-  - See [Deployment Instructions](https://github.com/meta-quest/webxr-first-steps?tab=readme-ov-file#build-and-deploy)
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
