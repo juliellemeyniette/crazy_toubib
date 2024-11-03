@@ -3,7 +3,7 @@
 
     Pour lancer le projet, il suffit de cliquer [ici](https://juliellemeyniette.github.io/crazy_toubib)
 
-    ![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/movin_organ.gif)
+![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/movin_organ.gif)
 
 # Membres du groupe :
     - Juliette Meyniel
