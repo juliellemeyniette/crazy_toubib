@@ -32,7 +32,7 @@ This repository includes a ready-to-use GitHub Actions workflow located at `.git
 
 #### Steps to Enable GitHub Pages Deployment:
 
-0. **IMPORTANT: Set the `base` variable** in `vite.config.js` (default name `/three_vite`) to the actual name of your repository. Your app will be deployed to https://juliellemeyniette.github.io/crazy_toubib (for example https://fdoganis.github.io/three_vite)
+0. **IMPORTANT: Set the `base` variable** in `vite.config.js` (default name `/three_vite`) to the actual name of your repository. Your app will be deployed to https://juliellemeyniette.github.io/crazy_toubib
 1. **Fork this repository** to your own GitHub account.
 2. Navigate to your forked repository’s **Settings**.
 3. Scroll down to the **Pages** section.
