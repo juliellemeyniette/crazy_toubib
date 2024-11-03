@@ -1,20 +1,20 @@
 # Description du projet
-    L'objectif de ce projet est de se familiariser avec la 3D et la librairie Three.js à travers le développement d'une application web 3D rappelant le jeu *Docteur Maboule* ou *Surgeon Simulator*.
+L'objectif de ce projet est de se familiariser avec la 3D et la librairie Three.js à travers le développement d'une application web 3D rappelant le jeu *Docteur Maboule* ou *Surgeon Simulator*.
 
-    Pour lancer le projet, il suffit de cliquer [ici](https://juliellemeyniette.github.io/crazy_toubib)
+Pour lancer le projet, il suffit de cliquer [ici](https://juliellemeyniette.github.io/crazy_toubib)
 
 ![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/movin_organ.gif)
 
 # Membres du groupe :
-    - Juliette Meyniel
-      - Lead Developer
-      - Project Manager
-    - Gustave Boussard
-      - Documentation and Testing Lead
-      - Project Manager
+- Juliette Meyniel
+  - Lead Developer
+  - Project Manager
+- Gustave Boussard
+  - Documentation and Testing Lead
+  - Project Manager
 
 # Sources :
-    Déplacement des objets avec la souris : https://schteppe.github.io/cannon.js/examples/threejs_mousepick.html
+[Déplacement des objets avec la souris](https://schteppe.github.io/cannon.js/examples/threejs_mousepick.html)
 
 # Licence :
     MIT License
