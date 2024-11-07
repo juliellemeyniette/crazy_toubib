@@ -3,7 +3,7 @@ The goal of this project is to get familiar with 3D, Three.js and Vite through t
 
 To launch the project, simply click [here](https://juliellemeyniette.github.io/crazy_toubib).
 
-![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/movin_organ.gif)
+![](https://github.com/juliellemeyniette/crazy_toubib/blob/main/ressources/movin_organ.gif)
 
 # Project members :
 - Juliette Meyniel
